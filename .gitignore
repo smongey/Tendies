@@ -1,0 +1,4 @@
+fixtures/phase0/ogp.csv
+node_modules/
+.env
+*.sqlite
